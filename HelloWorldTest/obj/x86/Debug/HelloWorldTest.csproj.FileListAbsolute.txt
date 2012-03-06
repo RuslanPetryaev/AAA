@@ -1,0 +1,9 @@
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.exe
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\HelloWorldTest.Form1.resources
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\HelloWorldTest.Properties.Resources.resources
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\HelloWorldTest.exe
+c:\users\petryaevr\documents\visual studio 2010\Projects\HelloWorldTest\HelloWorldTest\obj\x86\Debug\HelloWorldTest.pdb
